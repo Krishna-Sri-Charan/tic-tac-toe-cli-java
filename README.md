@@ -9,7 +9,7 @@ A simple command-line Tic Tac Toe game built in Java. This project demonstrates 
 You can download the project as a ZIP or clone it using Git:
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-cli-java.git
+git clone https://github.com/Krishna-Sri-Charan/tic-tac-toe-cli-java.git
 cd tic-tac-toe-cli-java
 ```
 ---
