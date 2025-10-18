@@ -10,14 +10,14 @@ public class TicTacToe {
 
         // Display welcome message and game instructions
         System.out.println("=======================================");
-        System.out.println("        🎮 Welcome to Tic Tac Toe!        ");
+        System.out.println("         Welcome to Tic Tac Toe!        ");
         System.out.println("=======================================");
         System.out.println("How to Play:");
-        System.out.println("1️⃣  The game is played on a 3x3 grid.");
-        System.out.println("2️⃣  Player 1 uses 'X' and Player 2 uses 'O'.");
-        System.out.println("3️⃣  Players take turns entering row and column numbers (0, 1, or 2).");
-        System.out.println("4️⃣  The first player to get three marks in a row, column, or diagonal wins!");
-        System.out.println("5️⃣  If all cells are filled with no winner, it’s a draw.");
+        System.out.println("1.  The game is played on a 3x3 grid.");
+        System.out.println("2.  Player 1 uses 'X' and Player 2 uses 'O'.");
+        System.out.println("3.  Players take turns entering row and column numbers (0, 1, or 2).");
+        System.out.println("4.  The first player to get three marks in a row, column, or diagonal wins!");
+        System.out.println("5.  If all cells are filled with no winner, it's a draw.");
         System.out.println("---------------------------------------");
 
         // Get player names
